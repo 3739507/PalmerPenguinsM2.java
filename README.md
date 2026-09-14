@@ -14,6 +14,7 @@ public class PalmerPenguinsM2 {
         static final int NUM_ADELIE = 151;
         
         static final int TOTAL_SPECIES = 3;
+        static final int PENGUINS_IN_DATABASE = 342;
        
         public static void main(String[] args) {
 
