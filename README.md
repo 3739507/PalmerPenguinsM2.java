@@ -27,6 +27,7 @@ public class PalmerPenguinsM2 {
          System.out.println ("and last but not least...");
          System.out.println ("\t" + SP_ADELIE + "!");
          System.out.println ("There are a total of " + TOTAL_SPECIES + " penguin species in this dataset.");
+         System.out.println ("There are a total of " + PENGUINS_IN_DATABASE + " penguins in the dataset");
          System.out.printf ("%s: %d (%.2f%%)\n", "SP_CHINSTRAP, NUM_CHINSTRAP, ((double) NUM_CHINSTRAP / totalPenguins * 100"));
          
          
